@@ -1,0 +1,23 @@
+td {
+    width: 30%;
+}
+
+input {
+    width: 98%;
+}
+
+td button {
+    width: 100%;
+}
+
+table {
+    margin-left: 35%;
+    margin-top: 10%;
+    border: black 2px solid;
+}
+
+button {
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+}
