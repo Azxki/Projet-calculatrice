@@ -4,6 +4,10 @@ td {
 
 input {
     width: 98%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    background-color: rgba(0, 100, 0, 0.26);
+    border: black 1px solid;
 }
 
 td button {
@@ -14,10 +18,17 @@ table {
     margin-left: 35%;
     margin-top: 10%;
     border: black 2px solid;
+    background-color: #abbde0;
+    padding: 2%;
 }
 
 button {
     padding-bottom: 5%;
     padding-top: 5%;
-
 }
+
+button:hover {
+    box-shadow: black -2px -2px 2px -2px;
+    cursor: pointer;
+}
+
